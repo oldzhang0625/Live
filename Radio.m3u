@@ -112,20 +112,17 @@ http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 #EXTINF:-1,Hao FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 #EXTINF:-1,Kiss FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AA
-C.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
 #EXTINF:-1,Class FM
 http://22393.live.streamtheworld.com/CLASS95.mp3
 #EXTINF:-1,Money FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893
-AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1,Power FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1,CGTN News
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL95
-8FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
 #EXTINF:-1,CNA938
 http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 #EXTINF:-1,NPR News
