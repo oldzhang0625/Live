@@ -104,25 +104,28 @@ http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
 #EXTINF:-1,Coffee House
 http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1,DRHK
-http://ice.digitalradiohk.net:8000/drhk
+http://sc.digitalradiohk.net:8394/; 
 #EXTINF:-1,One FM
-http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
+http://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1,Gold FM
 http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 #EXTINF:-1,Hao FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 #EXTINF:-1,Kiss FM
-http://22253.live.streamtheworld.com:3690/KISS_92.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AA
+C.aac
 #EXTINF:-1,Class FM
 http://22393.live.streamtheworld.com/CLASS95.mp3
 #EXTINF:-1,Money FM
-http://22253.live.streamtheworld.com/MONEY_893.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893
+AAC.aac
 #EXTINF:-1,Power FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1,CGTN News
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
-http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL95
+8FM.mp3
 #EXTINF:-1,CNA938
 http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 #EXTINF:-1,NPR News
